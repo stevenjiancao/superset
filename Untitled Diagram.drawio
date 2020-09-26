@@ -1,14 +1,14 @@
-<mxfile modified="2020-09-26T13:30:48.961Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="nJoKb5fVBGgqssCo5isi" version="13.7.5" type="github">
+<mxfile modified="2020-09-26T13:33:58.319Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="m8kBcIKcb3S-uduBVXXB" version="13.7.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="6TtXgKreYEfUeDlYSFUM-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aurora;" vertex="1" parent="1">
-          <mxGeometry x="530" y="440" width="78" height="78" as="geometry" />
+        <mxCell id="6TtXgKreYEfUeDlYSFUM-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="204" y="150" width="750" height="491" as="geometry" />
         </mxCell>
         <mxCell id="6TtXgKreYEfUeDlYSFUM-2" value="DNS(Route 53)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.route_53;" vertex="1" parent="1">
-          <mxGeometry x="530" y="160" width="78" height="78" as="geometry" />
+          <mxGeometry x="565" y="130" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="6TtXgKreYEfUeDlYSFUM-3" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3E;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.user;" vertex="1" parent="1">
           <mxGeometry x="400" y="60" width="50" height="50" as="geometry" />
@@ -23,16 +23,19 @@
           <mxGeometry x="710" y="60" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6TtXgKreYEfUeDlYSFUM-7" value="CDN(Cloud Front)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.cloudfront;" vertex="1" parent="1">
-          <mxGeometry x="530" y="280" width="78" height="78" as="geometry" />
-        </mxCell>
-        <mxCell id="6TtXgKreYEfUeDlYSFUM-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="420" width="120" height="60" as="geometry" />
+          <mxGeometry x="567" y="220" width="38" height="38" as="geometry" />
         </mxCell>
         <mxCell id="6TtXgKreYEfUeDlYSFUM-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="150" width="160" height="400" as="geometry" />
+          <mxGeometry x="230" y="220" width="290" height="400" as="geometry" />
         </mxCell>
         <mxCell id="6TtXgKreYEfUeDlYSFUM-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="150" width="160" height="400" as="geometry" />
+          <mxGeometry x="660" y="220" width="260" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="6TtXgKreYEfUeDlYSFUM-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1070" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="6TtXgKreYEfUeDlYSFUM-1" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#4D72F3;gradientDirection=north;fillColor=#3334B9;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.aurora;" vertex="1" parent="1">
+          <mxGeometry x="320" y="540" width="50" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
