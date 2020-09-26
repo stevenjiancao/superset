@@ -1,4 +1,4 @@
-<mxfile modified="2020-09-26T15:09:14.759Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="Bmj5XIBxtni2Pbybk5sg" version="13.7.5" type="github">
+<mxfile modified="2020-09-26T15:10:03.775Z" host="app.diagrams.net" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36" etag="ZQua9x_awfHNEeMYla3D" version="13.7.5" type="github">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="1298" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -171,6 +171,18 @@
         </mxCell>
         <mxCell id="S-aOgywjqehDpqe6vc-G-20" value="Storage(S3)" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#60A337;gradientDirection=north;fillColor=#277116;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.s3;" vertex="1" parent="1">
           <mxGeometry x="120" y="588" width="44" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="S-aOgywjqehDpqe6vc-G-22" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="570" as="sourcePoint" />
+            <mxPoint x="610" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="S-aOgywjqehDpqe6vc-G-23" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;" edge="1" parent="1" source="6TtXgKreYEfUeDlYSFUM-7" target="S-aOgywjqehDpqe6vc-G-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="260" as="sourcePoint" />
+            <mxPoint x="370" y="210" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
